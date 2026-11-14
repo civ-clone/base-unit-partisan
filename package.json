@@ -13,7 +13,8 @@
   "files": [
     "Partisan.js",
     "Partisan.d.ts",
-    "Partisan.js.map"
+    "Partisan.js.map",
+    "Partisan.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
